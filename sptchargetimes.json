@@ -1,4 +1,5 @@
-"data": [
+
+  "data": [
     {"charge_load": "Loaded", "charge_day": "Tuesday", "charge_time_from": "18:00", "charge_time_to": "23:59", "charge_time_amount": 476},
     {"charge_load": "Loaded", "charge_day": "Sunday", "charge_time_from": "18:00", "charge_time_to": "23:59", "charge_time_amount": 459},
     {"charge_load": "Empty", "charge_day": "Sunday", "charge_time_from": "18:00", "charge_time_to": "23:59", "charge_time_amount": 459},
@@ -10,4 +11,3 @@
     {"charge_load": "Empty", "charge_day": "Tuesday", "charge_time_from": "18:00", "charge_time_to": "23:59", "charge_time_amount": 476},
     {"charge_load": "Loaded", "charge_day": "Saturday", "charge_time_from": "18:00", "charge_time_to": "23:59", "charge_time_amount": 459}
   ]
-};
