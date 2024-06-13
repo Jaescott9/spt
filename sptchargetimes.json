@@ -1,62 +1,74 @@
 {
-    "charge_load": [
-        "Loaded",
-        "Loaded",
-        "Empty",
-        "Loaded",
-        "Empty",
-        "Empty",
-        "Loaded",
-        "Empty",
-        "Empty",
-        "Loaded"
-    ],
-    "charge_day": [
-        "Tuesday",
-        "Sunday",
-        "Sunday",
-        "Wednesday",
-        "Saturday",
-        "Wednesday",
-        "Monday",
-        "Monday",
-        "Tuesday",
-        "Saturday"
-    ],
-    "charge_time_from": [
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00",
-        "18:00"
-    ],
-    "charge_time_to": [
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59",
-        "23:59"
-    ],
-    "charge_time_amount": [
-        476,
-        459,
-        459,
-        476,
-        459,
-        476,
-        476,
-        476,
-        476,
-        459
-    ]
+  "data": [
+    {
+      "charge_load": "Loaded",
+      "charge_day": "Tuesday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Loaded",
+      "charge_day": "Sunday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 459
+    },
+    {
+      "charge_load": "Empty",
+      "charge_day": "Sunday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 459
+    },
+    {
+      "charge_load": "Loaded",
+      "charge_day": "Wednesday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Empty",
+      "charge_day": "Saturday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 459
+    },
+    {
+      "charge_load": "Empty",
+      "charge_day": "Wednesday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Loaded",
+      "charge_day": "Monday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Empty",
+      "charge_day": "Monday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Empty",
+      "charge_day": "Tuesday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 476
+    },
+    {
+      "charge_load": "Loaded",
+      "charge_day": "Saturday",
+      "charge_time_from": "18:00",
+      "charge_time_to": "23:59",
+      "charge_time_amount": 459
+    }
+  ]
 }
