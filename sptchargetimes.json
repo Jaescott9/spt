@@ -1,6 +1,7 @@
 [
   {
     "charge_code": "SF",
+    "agreement_number": 10000,
     "currency": "EUR",
     "calc_code": "UNIT",
     "charge_amount": 340,
