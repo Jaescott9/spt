@@ -7,7 +7,7 @@
     "charge_amount": 340,
     "valid_from": "01/01/2024",
     "valid_to": "31/12/2024",
-    "charge_times": [Y],
+    "charge_times": [Yes],
     "charge_load": [
       ["Loaded"], ["Loaded"], ["Empty"], ["Loaded"], ["Empty"],
       ["Empty"], ["Loaded"], ["Empty"], ["Empty"], ["Loaded"]
